@@ -12,7 +12,7 @@
 
 修改~\Scalable\exata\7.2.0\gui\settings\protocol_models\ **routing_protocols.prt**，添加下列标签，让srip协议在ExataGUI中可见。
 
-![1663312770187](.\assets\1663312770187.png)
+![1663312770187](./assets/1663312770187.png)
 
 2. 将自己的代码加入exata工程
 
